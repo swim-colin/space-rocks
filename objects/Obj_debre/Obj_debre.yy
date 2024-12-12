@@ -1,13 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_small_astroid",
+  "%Name":"Obj_debre",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":82,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_small_astroid",
+  "name":"Obj_debre",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -32,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_small_astroid",
-    "path":"sprites/Spr_small_astroid/Spr_small_astroid.yy",
+    "name":"Spr_debre",
+    "path":"sprites/Spr_debre/Spr_debre.yy",
   },
   "spriteMaskId":null,
   "visible":true,

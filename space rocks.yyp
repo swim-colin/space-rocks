@@ -34,9 +34,13 @@
   },
   "name":"space rocks",
   "resources":[
+    {"id":{"name":"Obj_debre","path":"objects/Obj_debre/Obj_debre.yy",},},
+    {"id":{"name":"Obj_flower","path":"objects/Obj_flower/Obj_flower.yy",},},
     {"id":{"name":"Obj_ship","path":"objects/Obj_ship/Obj_ship.yy",},},
     {"id":{"name":"Obj_small_astroid","path":"objects/Obj_small_astroid/Obj_small_astroid.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"id":{"name":"Spr_debre","path":"sprites/Spr_debre/Spr_debre.yy",},},
+    {"id":{"name":"Spr_flower","path":"sprites/Spr_flower/Spr_flower.yy",},},
     {"id":{"name":"Spr_huge_astroid","path":"sprites/Spr_huge_astroid/Spr_huge_astroid.yy",},},
     {"id":{"name":"Spr_regular_astroid","path":"sprites/Spr_regular_astroid/Spr_regular_astroid.yy",},},
     {"id":{"name":"Spr_ship","path":"sprites/Spr_ship/Spr_ship.yy",},},
