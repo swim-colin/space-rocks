@@ -43,7 +43,6 @@
     {"id":{"name":"rm_game_over","path":"rooms/rm_game_over/rm_game_over.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
-    {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
     {"id":{"name":"Spr_debre","path":"sprites/Spr_debre/Spr_debre.yy",},},
     {"id":{"name":"Spr_flower","path":"sprites/Spr_flower/Spr_flower.yy",},},
     {"id":{"name":"Spr_huge_astroid","path":"sprites/Spr_huge_astroid/Spr_huge_astroid.yy",},},
@@ -56,7 +55,6 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
-    {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
     {"roomId":{"name":"rm_game_over","path":"rooms/rm_game_over/rm_game_over.yy",},},
   ],
   "templateType":"game",
