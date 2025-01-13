@@ -1,11 +1,12 @@
 /// @description Insert description here
 // You can write your code in this editor
+if not (iframes > 0){
+	lives -= 1
+	iframes = 10}
+audio_play_sound(sou_hit,1,false)
 
-lives -= 1
+if lives = 0 instance_destroy();
 
-instance_destroy();
-
-repeat(10){
 	instance_create_layer(x,y,"Instances",Obj_debre)
-}
+
 

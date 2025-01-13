@@ -15,5 +15,7 @@ if(keyboard_check_pressed(vk_enter)){
 	if(room == rm_game){
 		if(lives <= 0){
 		room_goto(rm_game_over);
+		
+		audio_play_sound(sou_death,1,false)
 	}
 	}

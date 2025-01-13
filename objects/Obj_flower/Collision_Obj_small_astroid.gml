@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 score += 10
-
+audio_play_sound(sou_astriod_hit,1,false)
 instance_destroy();
 
 with(other){
