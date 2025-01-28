@@ -1,6 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
+if(invicible) exit;
 
-iframes = 0
-guns = -1;
-invinible = false;
+instance_destroy();

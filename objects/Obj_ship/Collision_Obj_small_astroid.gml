@@ -1,5 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
+else if(invincible){
+	with(other) {
+	}	
+}	
+	
 if not (iframes > 0){
 	lives -= 1
 	iframes = 10}
