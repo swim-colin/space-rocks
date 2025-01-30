@@ -4,10 +4,10 @@ with(other){
 }
 
 switch(powerup_type){
-	case powerups.invicible
+	case powerups.invicible:
 	//make player invincible
 	invicible = true;
-	alarm[1] = 8*romm_speed;
+	alarm[1] = 8*room_speed;
 	break;
 	
 	default:

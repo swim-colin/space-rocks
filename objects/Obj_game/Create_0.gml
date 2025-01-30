@@ -1,5 +1,5 @@
 score = 0;
-lives = 3;
+lives = 4;
 
 draw_set_font(Fnt_text);
 randomize()

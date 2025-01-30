@@ -3,4 +3,4 @@
 
 iframes = 0
 guns = -1;
-invinible = false;
+invicible = false;
